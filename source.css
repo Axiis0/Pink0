@@ -27,7 +27,7 @@ $$ |  $$ |$$ |      $$ |  $$ |$$ |  $$ |$$ |  $$ |$$ |      $$\   $$ |
   --Neon-Rgb2: var(--Neon-Line2); /*red noen node #2*/
   --Cards-Background-Color: rgb(63, 0, 64);/*darker cards color*/
   /*Backgrounds*/
-  --master-background: url('https://github.com/Axiis0/Pink0/blob/b688f5c87a4d32460c05c1fafd73745837e1e31c/background/Master%20Background.png?raw=true'); /*master background*/
+  --master-background: url('https://github.com/Axiis0/Pink0/blob/aa8095e0f669bc9754d5ee7bce2c7752c4d409f1/background/dMRba0i.jpg?raw=true'); /*master background*/
   --background-floating: linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.2)) , var(--master-background)50% 50%/cover !important; /*background used in normal discord's code*/
   /*Gifs for popouts and stuff*/
   --loop-gif: url('https://github.com/Axiis0/Pink0/blob/b688f5c87a4d32460c05c1fafd73745837e1e31c/background/loop-gif.gif?raw=true'); /*Used in files background*/
